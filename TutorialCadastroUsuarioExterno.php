@@ -109,7 +109,7 @@
 
                   <div class="row">
                     <div class="span8 post-d-info">
-                      <a href="#"><h3>1. Acesse o site <br>(http://sei.cultura.gov.br/sei/controlador_externo.php?acao=<br>usuario_externo_logar&acao_origem=<br>usuario_externo_gerar_senha&id_orgao_acesso_externo=0). <br><strong>Nele, clique em Clique aqui se você ainda não está cadastrado</strong> </h3></a>
+                      <a href="http://sei.cultura.gov.br/acessoexterno" target="_blank"><h3>1. Acesse o site <br>http://sei.cultura.gov.br/acessoexterno. <br><strong>Nele, clique em Clique aqui se você ainda não está cadastrado</strong> </h3></a>
 
 
                     </div>
