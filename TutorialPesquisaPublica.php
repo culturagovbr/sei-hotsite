@@ -89,7 +89,7 @@
     <div class="container">
           <div class="row">
             <div class="span12">
-              <h2>Tutorial para  <strong>Cadastro de Controlador Externo</strong></h2>
+              <h2>Tutorial para  <strong>Pesquisa Pública de Documentos</strong></h2>
             </div>
 
             <div class="span9">
