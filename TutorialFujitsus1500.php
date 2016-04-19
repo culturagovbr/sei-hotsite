@@ -13,7 +13,7 @@
   <!--[if (gte IE 9)|!(IE)]>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-  <![endif]--> 
+  <![endif]-->
 
   <!-- Favicon -->
   <link href="img/favicon.png" rel="icon" type="image/png">
@@ -38,13 +38,13 @@
 	<!-- Internet Explorer condition - HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->   
+	<![endif]-->
 
-</head>       
+</head>
 <body>
   <!-- Header -->
   <header id="header">
- 
+
     <div class="container">
       <div class="row t-container">
         <div class="texture">
@@ -54,7 +54,7 @@
         <div class="span3">
           <div class="logo">
             <a href="index.php"><img src="img/logo-header.png" alt=""></a>
-          </div>            
+          </div>
         </div>
 
         <div class="span9">
@@ -71,14 +71,14 @@
               <div class="head-info">
                 Tutorial de utilização do Scanner de Mesa da marca Fujitsu S1500, disponabilizado nas ilhas de digitalização do Ministério da Cultura.
                 <br><br><br><br><br><br><br><br><br>
-              </div>   
-            </div>  
-          
+              </div>
+            </div>
+
           </div>
         </div>
-      </div>  
+      </div>
 
-  </div> 
+  </div>
   </header>
   <!-- Header End -->
 
@@ -105,11 +105,11 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/1_FujitsuS1500.png" alt=""></a>
+                  <a ><img src="img/blog/1_FujitsuS1500.png" alt=""></a>
 
                   <div class="row">
                     <div class="span8 post-d-info">
-                      <a href="#"><h3>1. Verifique se o cabo do Scanner está conectado ao computador e se o cabo de energia está conectado à tomada. </h3></a>
+                      <a ><h3>1. Verifique se o cabo do Scanner está conectado ao computador e se o cabo de energia está conectado à tomada. </h3></a>
 
 
                     </div>
@@ -132,10 +132,10 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/2_FujitsuS1500.png" alt=""></a>
+                  <a ><img src="img/blog/2_FujitsuS1500.png" alt=""></a>
 
                   <div class="post-d-info">
-                    <a href="#"><h3>2. Se a luz estiver azul, o Scanner estará funcionando</h3></a>
+                    <a ><h3>2. Se a luz estiver azul, o Scanner estará funcionando</h3></a>
 
 
                   </div>
@@ -157,10 +157,10 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/3_FujitsuS1500.png" alt=""></a>
+                  <a ><img src="img/blog/3_FujitsuS1500.png" alt=""></a>
 
                   <div class="post-d-info">
-                    <a href="#"><h3>3. Para scannear os processos, retire qualquer tipo de objeto anexado a ele: clipes, grampos, post-its, marcadores de página.</h3></a>
+                    <a ><h3>3. Para scannear os processos, retire qualquer tipo de objeto anexado a ele: clipes, grampos, post-its, marcadores de página.</h3></a>
 
 
                   </div>
@@ -183,10 +183,10 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/4_FujitsuS1500.png" alt=""></a>
+                  <a ><img src="img/blog/4_FujitsuS1500.png" alt=""></a>
 
                   <div class="post-d-info">
-                    <a href="#"><h3>4. Coloque os processos no bocal. Eles devem estar virados para baixo e para trás para serem scanneados. Coloque até, no máximo, 50 folhas por vez. </h3></a>
+                    <a ><h3>4. Coloque os processos no bocal. Eles devem estar virados para baixo e para trás para serem scanneados. Coloque até, no máximo, 50 folhas por vez. </h3></a>
 
 
                   </div>
@@ -210,10 +210,10 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/5_FujitsuS1500.png" alt=""></a>
+                  <a ><img src="img/blog/5_FujitsuS1500.png" alt=""></a>
 
                   <div class="post-d-info">
-                    <a href="#"><h3>5. Aperte o botão azul <strong>Scan</strong> para iniciar o processo. </h3></a>
+                    <a ><h3>5. Aperte o botão azul <strong>Scan</strong> para iniciar o processo. </h3></a>
 
 
                   </div>
@@ -269,12 +269,11 @@
   <!-- Footer End -->
 
   <!-- JavaScripts -->
-  <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script> 
-	<script type="text/javascript" src="js/bootstrap.min.js"></script>  
+  <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/functions.js"></script>
 	<script type="text/javascript" src="js/jquery.isotope.min.js"></script>
   <script type="text/javascript" defer src="js/jquery.flexslider.js"></script>
 
 </body>
 </html>
-  

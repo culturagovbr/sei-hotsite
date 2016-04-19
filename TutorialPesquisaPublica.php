@@ -13,7 +13,7 @@
   <!--[if (gte IE 9)|!(IE)]>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-  <![endif]--> 
+  <![endif]-->
 
   <!-- Favicon -->
   <link href="img/favicon.png" rel="icon" type="image/png">
@@ -38,13 +38,13 @@
 	<!-- Internet Explorer condition - HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->   
+	<![endif]-->
 
-</head>       
+</head>
 <body>
   <!-- Header -->
   <header id="header">
- 
+
     <div class="container">
       <div class="row t-container">
         <div class="texture">
@@ -54,7 +54,7 @@
         <div class="span3">
           <div class="logo">
             <a href="index.php"><img src="img/logo-header.png" alt=""></a>
-          </div>            
+          </div>
         </div>
 
         <div class="span9">
@@ -71,14 +71,14 @@
               <div class="head-info">
                 Tutorial de utilização da funcionalidade de pesquisa de processos e documentos do SEI.
                 <br><br><br><br><br><br><br><br><br>
-              </div>   
-            </div>  
-          
+              </div>
+            </div>
+
           </div>
         </div>
-      </div>  
+      </div>
 
-  </div> 
+  </div>
   </header>
   <!-- Header End -->
 
@@ -105,11 +105,11 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/publica/1.png" alt=""></a>
+                  <a ><img src="img/blog/publica/1.png" alt=""></a>
 
                   <div class="row">
                     <div class="span8 post-d-info">
-                      <a href="#"><h3>1. Acesse o site www.sei.cultura.gov.br/pesquisa. Nele, preencha os dados relacionados à sua consulta </h3></a>
+                      <a ><h3>1. Acesse o site www.sei.cultura.gov.br/pesquisa. Nele, preencha os dados relacionados à sua consulta </h3></a>
 
 
                     </div>
@@ -132,10 +132,10 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/publica/2_Consulta.png" alt=""></a>
+                  <a ><img src="img/blog/publica/2_Consulta.png" alt=""></a>
 
                   <div class="post-d-info">
-                    <a href="#"><h3>2. Digite o código que aparece na imagem à direita no campo próprio.</strong></h3></a>
+                    <a ><h3>2. Digite o código que aparece na imagem à direita no campo próprio.</strong></h3></a>
 
 
                   </div>
@@ -157,11 +157,11 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/publica/3.png" alt=""></a><br><br>
+                  <a ><img src="img/blog/publica/3.png" alt=""></a><br><br>
 
 
                   <div class="post-d-info">
-                    <a href="#"><h3>3. Clique em <strong>Pesquisar</strong></h3></a>
+                    <a ><h3>3. Clique em <strong>Pesquisar</strong></h3></a>
 
 
                   </div>
@@ -185,11 +185,11 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/publica/4.png" alt=""></a><br><br>
+                  <a ><img src="img/blog/publica/4.png" alt=""></a><br><br>
 
 
                   <div class="post-d-info">
-                    <a href="#"><h3>4. Clique em <strong>Limpar Campos</strong> para limpar sua pesquisa</h3></a>
+                    <a ><h3>4. Clique em <strong>Limpar Campos</strong> para limpar sua pesquisa</h3></a>
 
 
                   </div>
@@ -214,11 +214,11 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/publica/5.png" alt=""></a><br><br>
+                  <a ><img src="img/blog/publica/5.png" alt=""></a><br><br>
 
 
                   <div class="post-d-info">
-                    <a href="#"><h3>5. Após clicar em <strong>Pesquisar</strong>, aparecerá uma tela com os resultados de sua pesquisa. Para abrir qualquer
+                    <a ><h3>5. Após clicar em <strong>Pesquisar</strong>, aparecerá uma tela com os resultados de sua pesquisa. Para abrir qualquer
                       um deles, clique no ícone de árvore correspondente ao documento que deseja visualizar</h3></a>
 
 
@@ -244,11 +244,11 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/publica/6.png" alt=""></a><br><br>
+                  <a ><img src="img/blog/publica/6.png" alt=""></a><br><br>
 
 
                   <div class="post-d-info">
-                    <a href="#"><h3>6. Na tela seguinte, clique no número em azul correspondente ao documento que deseja visualizar para baixar o arquivo</h3></a>
+                    <a ><h3>6. Na tela seguinte, clique no número em azul correspondente ao documento que deseja visualizar para baixar o arquivo</h3></a>
 
 
                   </div>
@@ -279,12 +279,11 @@
   <!-- Footer End -->
 
   <!-- JavaScripts -->
-  <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script> 
-	<script type="text/javascript" src="js/bootstrap.min.js"></script>  
+  <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/functions.js"></script>
 	<script type="text/javascript" src="js/jquery.isotope.min.js"></script>
   <script type="text/javascript" defer src="js/jquery.flexslider.js"></script>
 
 </body>
 </html>
-  

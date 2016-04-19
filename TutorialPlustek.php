@@ -13,7 +13,7 @@
   <!--[if (gte IE 9)|!(IE)]>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-  <![endif]--> 
+  <![endif]-->
 
   <!-- Favicon -->
   <link href="img/favicon.png" rel="icon" type="image/png">
@@ -38,13 +38,13 @@
 	<!-- Internet Explorer condition - HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->   
+	<![endif]-->
 
-</head>       
+</head>
 <body>
   <!-- Header -->
   <header id="header">
- 
+
     <div class="container">
       <div class="row t-container">
         <div class="texture">
@@ -54,7 +54,7 @@
         <div class="span3">
           <div class="logo">
             <a href="index.php"><img src="img/logo-header.png" alt=""></a>
-          </div>            
+          </div>
         </div>
 
         <div class="span9">
@@ -71,14 +71,14 @@
               <div class="head-info">
                 Tutorial de utilização do Scanner de Mesa da marca Plustek, disponabilizado nas ilhas de digitalização do Ministério da Cultura.
                 <br><br><br><br><br><br><br><br><br>
-              </div>   
-            </div>  
-          
+              </div>
+            </div>
+
           </div>
         </div>
-      </div>  
+      </div>
 
-  </div> 
+  </div>
   </header>
   <!-- Header End -->
 
@@ -105,11 +105,11 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/Passo1_Scanner.png" alt=""></a>
+                  <a ><img src="img/blog/Passo1_Scanner.png" alt=""></a>
 
                   <div class="row">
                     <div class="span8 post-d-info">
-                      <a href="#"><h3>1. Verifique se o cabo do scanner está ligado na impressora (imagem da impressora). </h3></a>
+                      <a ><h3>1. Verifique se o cabo do scanner está ligado na impressora (imagem da impressora). </h3></a>
 
 
                     </div>
@@ -132,10 +132,10 @@
 
                 </div>
                 <div class="span8">
-                    <a href="#"><img src="img/blog/Passo2_Scanner.png" alt=""></a>
+                    <a ><img src="img/blog/Passo2_Scanner.png" alt=""></a>
 
                   <div class="post-d-info">
-                    <a href="#"><h3>2. Verifique se o scanner está ligado (indicação na impressora de luz branca e alaranjada)<br>
+                    <a ><h3>2. Verifique se o scanner está ligado (indicação na impressora de luz branca e alaranjada)<br>
                       (luz branca acesa = ligado/ luz alaranjada=stand by)
                     </h3></a>
 
@@ -159,12 +159,12 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/Passo3a_Scanner.png" alt=""></a>
+                  <a ><img src="img/blog/Passo3a_Scanner.png" alt=""></a>
 
                   <div class="post-d-info">
-                    <a href="#"><h3>3. Coloque o processo no scanner. (ilustração scanner e processo)
+                    <a ><h3>3. Coloque o processo no scanner. (ilustração scanner e processo)
                       Atenção!<br>
-                      <a href="#"><img src="img/blog/Passo3b_Scanner.png" alt=""></a>
+                      <a ><img src="img/blog/Passo3b_Scanner.png" alt=""></a>
                       - A frente do processo deve estar virada para trás e para baixo.<br>
                       - O processo deve conter no máximo 50 páginas.<br>
                       - Certifique-se de que não há dobras, clipes, grampos, post-it ou marcadores de páginas anexados ao processo. Se houver, deverá ser retirado e reposto após o escaneamento)
@@ -191,10 +191,10 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/Passo4_Scanner.png" alt=""></a>
+                  <a ><img src="img/blog/Passo4_Scanner.png" alt=""></a>
 
                   <div class="post-d-info">
-                    <a href="#"><h3>4. Clique no botão iniciar (indicar no scanner)<br>
+                    <a ><h3>4. Clique no botão iniciar (indicar no scanner)<br>
                       - Ao final da digitalização, se houver mais páginas para acrescentar no scanner, coloque em até 15 segundos. Caso contrário o escaneamento será encerrado.
                     </h3></a>
 
@@ -223,7 +223,7 @@
 
 
                   <div class="post-d-info">
-                    <a href="#"><h3>5. Ao final da digitalização, aparecerá na tela do computador uma caixa de diálogo. Insira o nome do arquivo e salve. (print da caixa de diálogo)<br>
+                    <a ><h3>5. Ao final da digitalização, aparecerá na tela do computador uma caixa de diálogo. Insira o nome do arquivo e salve. (print da caixa de diálogo)<br>
                       - O nome do arquivo não pode ter acentuação ou espaço. Utilize underline (_) para substituir o espaço.
                     </h3></a>
 
@@ -253,7 +253,7 @@
 
 
                   <div class="post-d-info">
-                    <a href="#"><h3>6. Acesse outro computador para converter o arquivo em formato TIFF para PDF. </h3></a>
+                    <a ><h3>6. Acesse outro computador para converter o arquivo em formato TIFF para PDF. </h3></a>
 
 
                   </div>
@@ -284,7 +284,7 @@
 
 
                   <div class="post-d-info">
-                    <a href="#"><h3>7. Abra o aplicativo ABVY. </h3></a>
+                    <a ><h3>7. Abra o aplicativo ABVY. </h3></a>
 
 
                   </div>
@@ -316,7 +316,7 @@
 
 
                   <div class="post-d-info">
-                    <a href="#"><h3>8. Na barra de menu, selecione arquivo -> abrir imagem -> converter para PDF. (print da barra de menu). </h3></a>
+                    <a ><h3>8. Na barra de menu, selecione arquivo -> abrir imagem -> converter para PDF. (print da barra de menu). </h3></a>
 
 
                   </div>
@@ -341,7 +341,7 @@
 
 
                   <div class="post-d-info">
-                    <a href="#"><h3>9. Selecione o arquivo digitalizado na pasta em que foi salvo. </h3></a>
+                    <a ><h3>9. Selecione o arquivo digitalizado na pasta em que foi salvo. </h3></a>
 
 
                   </div>
@@ -366,7 +366,7 @@
 
 
                   <div class="post-d-info">
-                    <a href="#"><h3>10. Aguarde a conversão do arquivo para PDF pesquisável. (print da conversão). </h3></a>
+                    <a ><h3>10. Aguarde a conversão do arquivo para PDF pesquisável. (print da conversão). </h3></a>
 
 
                   </div>
@@ -390,7 +390,7 @@
 
 
                   <div class="post-d-info">
-                    <a href="#"><h3>11. Confirme o nome do arquivo e salve. (print da caixa de diálogo). </h3></a>
+                    <a ><h3>11. Confirme o nome do arquivo e salve. (print da caixa de diálogo). </h3></a>
 
 
                   </div>
@@ -440,12 +440,11 @@
   <!-- Footer End -->
 
   <!-- JavaScripts -->
-  <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script> 
-	<script type="text/javascript" src="js/bootstrap.min.js"></script>  
+  <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/functions.js"></script>
 	<script type="text/javascript" src="js/jquery.isotope.min.js"></script>
   <script type="text/javascript" defer src="js/jquery.flexslider.js"></script>
 
 </body>
 </html>
-  

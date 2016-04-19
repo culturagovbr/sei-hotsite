@@ -13,7 +13,7 @@
   <!--[if (gte IE 9)|!(IE)]>
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
-  <![endif]--> 
+  <![endif]-->
 
   <!-- Favicon -->
   <link href="img/favicon.png" rel="icon" type="image/png">
@@ -38,13 +38,13 @@
 	<!-- Internet Explorer condition - HTML5 shim, for IE6-8 support of HTML5 elements -->
 	<!--[if lt IE 9]>
 		<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
-	<![endif]-->   
+	<![endif]-->
 
-</head>       
+</head>
 <body>
   <!-- Header -->
   <header id="header">
- 
+
     <div class="container">
       <div class="row t-container">
         <div class="texture">
@@ -54,7 +54,7 @@
         <div class="span3">
           <div class="logo">
             <a href="index.php"><img src="img/logo-header.png" alt=""></a>
-          </div>            
+          </div>
         </div>
 
         <div class="span9">
@@ -71,14 +71,14 @@
               <div class="head-info">
                 Tutorial de utilização do Scanner de Mesa da marca Fujitsu, disponabilizado nas ilhas de digitalização do Ministério da Cultura.
                 <br><br><br><br><br><br><br><br><br>
-              </div>   
-            </div>  
-          
+              </div>
+            </div>
+
           </div>
         </div>
-      </div>  
+      </div>
 
-  </div> 
+  </div>
   </header>
   <!-- Header End -->
 
@@ -105,11 +105,11 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/1.PNG" alt=""></a>
+                  <a><img src="img/blog/1.PNG" alt=""></a>
 
                   <div class="row">
                     <div class="span8 post-d-info">
-                      <a href="#"><h3>1. Clique no botão <strong>iniciar</strong> da tela principal do computador. </h3></a>
+                      <a><h3>1. Clique no botão <strong>iniciar</strong> da tela principal do computador. </h3></a>
 
 
                     </div>
@@ -132,10 +132,10 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/2.png" alt=""></a>
+                  <a ><img src="img/blog/2.png" alt=""></a>
 
                   <div class="post-d-info">
-                    <a href="#"><h3>2.	No quadro de pesquisa, busque por “scan” e clique no programa <strong>Configurações do ScanSnap Manager</strong></h3></a>
+                    <a ><h3>2.	No quadro de pesquisa, busque por “scan” e clique no programa <strong>Configurações do ScanSnap Manager</strong></h3></a>
 
 
                   </div>
@@ -157,10 +157,10 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/3.png" alt=""></a>
+                  <a ><img src="img/blog/3.png" alt=""></a>
 
                   <div class="post-d-info">
-                    <a href="#"><h3>3.	Com o programa aberto, clique na aba <strong>Salvar</strong> e selecione a pasta em que os processos serão salvos pelo botão <strong>Procurar.</strong></h3></a>
+                    <a ><h3>3.	Com o programa aberto, clique na aba <strong>Salvar</strong> e selecione a pasta em que os processos serão salvos pelo botão <strong>Procurar.</strong></h3></a>
 
 
                   </div>
@@ -183,10 +183,10 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/4.png" alt=""></a>
+                  <a ><img src="img/blog/4.png" alt=""></a>
 
                   <div class="post-d-info">
-                    <a href="#"><h3>4.	Depois, clique na aba <strong>Digitalização.</strong> Nela, selecione a opção “Preto e branco” em <strong>Modo de cor.</strong> Para as outras opções, deixe no padrão que está (de acordo com a imagem). Após essa configuração, clique no botão <strong>opção.</strong> </h3></a>
+                    <a ><h3>4.	Depois, clique na aba <strong>Digitalização.</strong> Nela, selecione a opção “Preto e branco” em <strong>Modo de cor.</strong> Para as outras opções, deixe no padrão que está (de acordo com a imagem). Após essa configuração, clique no botão <strong>opção.</strong> </h3></a>
 
 
                   </div>
@@ -210,10 +210,10 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/5.png" alt=""></a>
+                  <a ><img src="img/blog/5.png" alt=""></a>
 
                   <div class="post-d-info">
-                    <a href="#"><h3>5.	Na janela, desmarque a opção <strong>Ativar remoção automática de páginas em branco</strong> e marque <strong>Corrigir automaticamente caracteres deformados.</strong> </h3></a>
+                    <a ><h3>5.	Na janela, desmarque a opção <strong>Ativar remoção automática de páginas em branco</strong> e marque <strong>Corrigir automaticamente caracteres deformados.</strong> </h3></a>
 
 
                   </div>
@@ -238,10 +238,10 @@
 
                 </div>
                 <div class="span8">
-                  <a href="#"><img src="img/blog/6.png" alt=""></a>
+                  <a ><img src="img/blog/6.png" alt=""></a>
 
                   <div class="post-d-info">
-                    <a href="#"><h3>6.	Por fim, clique na aba <strong>Opções do arquivo.</strong> Nela, marque a opção <strong>Converter em PDF pesquisável</strong> (em <strong>Selecionar OCR</strong>) e marque também a opção <strong>Todas as páginas</strong> (em <strong>Opções de OCR</strong>). </h3></a>
+                    <a ><h3>6.	Por fim, clique na aba <strong>Opções do arquivo.</strong> Nela, marque a opção <strong>Converter em PDF pesquisável</strong> (em <strong>Selecionar OCR</strong>) e marque também a opção <strong>Todas as páginas</strong> (em <strong>Opções de OCR</strong>). </h3></a>
 
                   </div>
 
@@ -269,12 +269,11 @@
   <!-- Footer End -->
 
   <!-- JavaScripts -->
-  <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script> 
-	<script type="text/javascript" src="js/bootstrap.min.js"></script>  
+  <script type="text/javascript" src="js/jquery-1.8.3.min.js"></script>
+	<script type="text/javascript" src="js/bootstrap.min.js"></script>
 	<script type="text/javascript" src="js/functions.js"></script>
 	<script type="text/javascript" src="js/jquery.isotope.min.js"></script>
   <script type="text/javascript" defer src="js/jquery.flexslider.js"></script>
 
 </body>
 </html>
-  
